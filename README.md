@@ -9,3 +9,6 @@ Program just like a little forum for talking about gossip news (not finished yet
 
 ### Why? :
 Learning about MVC (still need more work)
+
+#### Coach :
+Sorry
